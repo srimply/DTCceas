@@ -7,12 +7,32 @@
    
 - name: Aashish Sharma
   role: Administrator / Founder
-  bio: Nitin Kumar is currently pursuing his B.TECH in Civil Engineering at Delhi Technical Campus. You cantact him through mail, his email address is ashish.e19@gmail.com or you can directly call him at 9999552247.
+  bio: Aashish Sharma is currently pursuing his B.TECH in Civil Engineering at Delhi Technical Campus. You cantact him through mail, his email address is ashish.e19@gmail.com or you can directly call him at 9999552247.
   visible: true
   
-- name: Surya R. Kalidindi
-  role: Materials Informatics
-  img: https://avatars1.githubusercontent.com/u/6601815?v=3&s=400
-  bio: Dr. Kalidindi’s research interests are broadly centered on designing material internal structure (including composition) for optimal performance in any selected application and identifying hybrid processing routes for its manufacture. To this end, he has employed a harmonious blend of experimental, theoretical, and numerical approaches in his research.
-  url: http://mined.gatech.edu/
-  visible: false
+- name: Amit Manral
+  role: CO-ADMIN / CO-FOUNDER
+  bio: Amit Manral is currently pursuing his B.TECH in Civil Engineering at Delhi Technical Campus. You cantact him through mail, his email address is amitmanral19@gmail.com.
+  visible: true
+  
+- name: Vivek Kumar Singh
+  role: Editor
+  bio: Vivek Kumar Singh is currently pursuing his B.TECH in Civil Engineering at Delhi Technical Campus. You cantact him through mail, his email address is vivek.singhgenesis@gmail.com.
+  visible: true
+  
+- name: Vinay Kushwaha
+  role: Fund Raiser
+  bio: Vinay Kushwaha is currently pursuing his B.TECH in Civil Engineering at Delhi Technical Campus. You cantact him through mail, his email address is vinay.kushwaha091@gmail.com.
+  visible: true
+  
+- name: Nishant
+  role: Advertiser
+  bio: Nishant is currently pursuing his B.TECH in Civil Engineering at Delhi Technical Campus. You cantact him through mail, his email address is nishantgarg35@gmail.com.
+  visible: true
+  
+- name: Romit Singh
+  role: Advertiser
+  bio: Romit Singh is currently pursuing his B.TECH in Civil Engineering at Delhi Technical Campus. You cantact him through mail, his email address is romit.singh@gmail.com.
+  visible: true
+  
+
