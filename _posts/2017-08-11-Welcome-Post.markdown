@@ -8,7 +8,7 @@ subtitle:  	Introducing the Website
 <!-- Start Writing Below in Markdown -->
 # Hello Folks!
 
-**So finally introducing you with the official website for CEAS**
+**So finally introducing you with the official website of CEAS**
 
 *If you are operating this website through your laptop or PC you can see all the navigation tools on the top of your screen and if your are having a smartphone, you can see a small navigation bar on the top-right corner of your screen, open it, you will see some sub pages tabs like About, Members, Society Motto.*
 
