@@ -7,6 +7,4 @@ subtitle:  	Introducing the Website
 ---
 <!-- Start Writing Below in Markdown -->
 
-# The New Website for the Civil Engineering Awareness Society 
-**Hello folks! So, here is your website developed for CEAS.
 
