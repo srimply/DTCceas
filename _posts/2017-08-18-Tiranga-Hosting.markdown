@@ -11,7 +11,7 @@ subtitle:  	71st Independence Day
 
 **Team CEAS has finally organised their first event "Tiranga Hosting" on 71st Independence Day.**
 
-![Flag Hosting](/img/warden.png)
+![Flag Hosting](https://github.com/srimply/project-pages/blob/gh-pages/img/warden.png)
 
 ## Celebrating the 71st Independence Day
 
