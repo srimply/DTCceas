@@ -23,7 +23,7 @@ A big celebration event is organized by the government of India at the Rajpath, 
 
 
 ***JAI HIND, JAI BHARAT!***
-![Group](https://github.com/srimply/project-pages/blob/gh-pages/img/stdents.png?raw=true)
+![Group](https://github.com/srimply/project-pages/blob/gh-pages/img/stidentsss.png?raw=true)
 
 
 
