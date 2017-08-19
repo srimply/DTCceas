@@ -2,6 +2,7 @@
 layout:     post
 title:      TIRANGA Hosting
 author:     Ashish Sharma
+img:        /img/warden.png
 subtitle:  	71st Independence Day
 
 ---
