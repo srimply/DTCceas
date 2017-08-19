@@ -23,7 +23,7 @@ A big celebration event is organized by the government of India at the Rajpath, 
 
 
 ***JAI HIND, JAI BHARAT!***
-[Group](/img/stdents.png)
+![Group](/img/stdents.png)
 
 
 
