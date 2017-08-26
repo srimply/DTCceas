@@ -157,4 +157,4 @@ prose:
           label: "Visual Workflow Chart (Some Layouts)"
           value: "true"
 gems:
-     - jekyll-sitemap
+      - jekyll-sitemap
